@@ -23,8 +23,92 @@
 <a href="https://github.com/abdullahhafizh/github-contributor-stats">![Hafizh's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=abdullahhafizh&combine_all_yearly_contributions=true&hide=B,B+&theme=swift&hide_contributor_rank=false)</a>
 
 ##### Activity
-<a href="https://wakatime.com/@abdullahhafizh" title="Data update every midnight"><img src="https://wakatime.com/badge/user/08e276c7-e836-41e6-bac8-ed132d6ef681.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a><br>
+<a href="https://wakatime.com/@abdullahhafizh" title="Data update every midnight"><img src="https://wakatime.com/badge/user/179b1703-5df4-4261-b1ff-37169a73a949.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a><br>
 <a href="https://wakatime.com/@abdullahhafizh" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahhafizh&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
+<!-- GRS (Light Mode) -->
+<a href="https://github.com/abdullahhafizh#gh-light-mode-only">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="border: 0;">
+          <img
+            src="https://github-readme-stats-steel-omega.vercel.app/api?username=abdullahhafizh&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&disable_animations=false#gh-light-mode-only"
+            alt="My Github stats"
+            height="370"
+          />
+      </td>
+      <td style="border: 0;">
+          <img
+            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=abdullahhafizh&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=false#gh-light-mode-only"
+            alt="My Language stats"
+            width="280"
+          />
+      </td>
+    </tr>
+  </table>
+</a>
+
+<!-- GRS (Dark Mode) -->
+<a href="https://github.com/abdullahhafizh#gh-dark-mode-only">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="border: 0;">
+        <img
+          src="https://github-readme-stats-steel-omega.vercel.app/api?username=abdullahhafizh&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&disable_animations=false#gh-dark-mode-only"
+          alt="My Github stats"
+          height="370"
+        />
+      </td>
+      <td style="border: 0;">
+        <img
+          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=abdullahhafizh&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos&disable_animations=false#gh-dark-mode-only"
+          alt="My Language stats"
+          width="280"
+        />
+      </td>
+    </tr>
+  </table>
+</a>
+
+<!-- Streak stats (Light mode) -->
+<div align="center">
+  <a href="https://github.com/abdullahhafizh#gh-light-mode-only">
+    <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=abdullahhafizh&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000&disable_animations=false"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
+
+
+<!-- Streak stats (Dark mode) -->
+<div align="center">
+  <a href="https://github.com/abdullahhafizh#gh-dark-mode-only">
+    <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=abdullahhafizh&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true&disable_animations=false"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
+
+<!-- WakaTime stats (Light mode) -->
+<div align="center">
+  <a href="https://github.com/abdullahhafizh#gh-light-mode-only">
+    <img
+        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=abdullahhafizh&layout=compact&hide_border=true&disable_animations=false"
+        alt="My Wakatime stats"
+      />
+  </a>
+</div>
+
+<!-- WakaTime stats (Dark mode) -->
+<div align="center">
+  <a href="https://github.com/abdullahhafizh#gh-dark-mode-only">
+    <img
+        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=abdullahhafizh&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&disable_animations=false"
+        alt="My Wakatime stats"
+      />
+  </a>
+</div>
 
 ### Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdullahhafizh&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/abdullahhafizh/github-profile-trophy#about-rank)
