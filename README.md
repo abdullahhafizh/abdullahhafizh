@@ -7,10 +7,10 @@
 </div>
 
 <!-- PR yang belum: Cloudflare Pages, cloudflare workers, Android Studio, Sentry, .env, algolia, anydesk, apache, jmeter, apache maven, avalonia UI, axios, bitly, code igniter, clockify, contactless payment, conventional commits, cpanel, curl, dbeaver, delphi, elevenlabs, evernote, filezilla, fontawesome, git for windows, jsonwebtokens, laragon, letsencrypt, lighthouse, livewire, lottiefiles, lumen, mailgun, mailtrap, meilisearch, ngrok, openssl, owncloud, phpmyadmin, pm2, pwa, radstudio, semver, sentry, socketdotio, svg, termius, xampp, zerotier,  -->
-<!-- gojek (delivery), qris, gpn (on issue, waiting respo/feed), rumahweb, -->
+<!-- gojek (delivery), qris, gpn (on issue, waiting respo/feed), rumahweb -->
 <!-- CI -> Continuous Integration, ORM -> Object–relational Mapping -->
 <!--- Jekyll (pelajarin), simpleicons (contrib munculin kl udah) -->
-<!-- report simple icons: hbo-max -->
+<!-- report simple icons: hbo-max, heidi -->
 
 ## Tech Stack & Tools
 
