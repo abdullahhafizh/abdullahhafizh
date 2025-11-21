@@ -122,7 +122,7 @@ I’m open to collaborating on browser extensions, API backends, and developer t
 </div>
 
 ### Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdullahhafizh&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/abdullahhafizh/github-profile-trophy#about-rank)
+[![trophy](https://gpt.abdullahhafizh.my.id/?username=abdullahhafizh&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/abdullahhafizh/github-profile-trophy#about-rank)
 
 <hr></hr>
 
