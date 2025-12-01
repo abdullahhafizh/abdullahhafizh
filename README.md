@@ -8,6 +8,10 @@
 
 ## 🛠️ Tech Stack & Tools
 
+<!-- gojek (delivery), qris, gpn (on issue, waiting respo/feed), rumahweb -->
+<!--- Jekyll (pelajarin), hapi/joi (node validation), oauth2, rabbitmq, hapi.js, simpleicons (contrib munculin kl udah) -->
+<!-- report simple icons: hbo-max, heidi,  ->
+
 <details>
 <summary>Click to expand/collapse</summary>
 
