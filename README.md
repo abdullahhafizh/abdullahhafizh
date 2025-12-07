@@ -1,6 +1,6 @@
 <div align="center" width="50">
   
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/abdullahhafizh/abdullahhafizh/blob/master/NUX_Octodex.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=abdullahhafizh&style=flat&color=orange&label=PROFILE+VIEWS) <br>
@@ -10,7 +10,7 @@
 
 <!-- gojek (delivery), qris, gpn (on issue, waiting respo/feed), rumahweb -->
 <!--- Jekyll (pelajarin), hapi/joi (node validation), oauth2, rabbitmq, hapi.js, simpleicons (contrib munculin kl udah) -->
-<!-- report simple icons: hbo-max, heidi,  ->
+<!-- report simple icons: hbo-max, heidi,  -->
 
 <details>
 <summary>Click to expand/collapse</summary>
@@ -32,13 +32,25 @@ I'm open to collaborating on browser extensions, API backends, and developer too
 - 🏢 Previously at [Anilo](https://anilo.id), now at [Multidaya](https://multidaya.id). <br>
 <br>
 
-<a href="https://github.com/abdullahhafizh/github-contributor-stats">![Hafizh's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=abdullahhafizh&combine_all_yearly_contributions=true&hide=B,B+&theme=swift&hide_contributor_rank=false)</a>
+<div align="center" width="50">
+  
+  <a href="https://github.com/abdullahhafizh/github-contributor-stats">![Hafizh's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=abdullahhafizh&combine_all_yearly_contributions=true&hide=B,B+&theme=swift&hide_contributor_rank=false)</a>
+  
+</div>
 
 ## 📊 Activity & Stats
 
 ##### Activity
-<a href="https://wakatime.com/@abdullahhafizh" title="Data update every midnight"><img src="https://wakatime.com/badge/user/179b1703-5df4-4261-b1ff-37169a73a949.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a><br>
-<a href="https://wakatime.com/@abdullahhafizh" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahhafizh&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
+
+<div align="center" width="50">
+
+  <a href="https://wakatime.com/@abdullahhafizh" title="Data update every midnight"><img src="https://wakatime.com/badge/user/179b1703-5df4-4261-b1ff-37169a73a949.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" />
+  <br>
+  <a href="https://wakatime.com/@abdullahhafizh" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullahhafizh&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" />
+  
+</div>
+
+<div align="center" width="50">
 <!-- GRS (Light Mode) -->
 <a href="https://github.com/abdullahhafizh#gh-light-mode-only">
   <table cellspacing="0" cellpadding="0">
@@ -82,6 +94,7 @@ I'm open to collaborating on browser extensions, API backends, and developer too
     </tr>
   </table>
 </a>
+</div>
 
 <!-- Streak stats (Light mode) -->
 <div align="center">
@@ -129,4 +142,8 @@ I'm open to collaborating on browser extensions, API backends, and developer too
 
 <hr></hr>
 
+</div>
+
+<div align="center" width="50">
+  <img src="octocat-1765131762736.png?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 </div>
