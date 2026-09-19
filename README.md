@@ -29,7 +29,7 @@ I'm open to collaborating on browser extensions, API backends, and developer too
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently learning the **Gin** framework in Go.
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **trending frameworks and new developer tools**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **movies, tech, or anything else**. <br>
-- 🏢 Previously at [Anilo](https://anilo.id), now at [Multidaya](https://multidaya.id). <br>
+- 🏢 Previously at [Anilo](https://anilo.id), [Multidaya](https://multidaya.id), now at [Sobis](https://sobatbisnis.com). <br>
 <br>
 
 <div align="center" width="50">
